@@ -35,10 +35,11 @@ VScode
 ## Apps
 Tools with GUI
 
+- Norton Antivirus Software - search for alternatives first
 - TIDAL
 - Chrome Canary
 - Dash
-- Adobe PDF reader - search for better alternatives first
+- Adobe PDF reader - search for alternatives first
 - Microsoft Edge (Beta) - Oct 2019 4.19% of all browser usage
 - Firefox
 - Caffeine
