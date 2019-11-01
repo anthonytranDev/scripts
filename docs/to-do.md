@@ -6,10 +6,14 @@ Terminal
 - Tree - CLI prints out a tree diagram of all directories and files in specified directory
 VScode
 - Initial setup for
-  - *
-    - editorconfig
-  - web > react (have snippets available for react projects?)
-    - code snippets
+  - git
+    git config - add username & emails (needs to be setup)
+  - linting
+    - *
+      - editorconfig
+    - web > react (have snippets available for react projects?)
+      - code snippets
+  
 - Extensions
   - christian-kohler.npm-intellisense
   - dbaeumer.vscode-eslint
