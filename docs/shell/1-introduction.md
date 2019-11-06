@@ -14,6 +14,9 @@ The Bourne Shell: The prompt for this shell is $ and its derivatives are listed 
 - Korn Shell also knew as sh
 - Bourne Again SHell also knew as bash (most popular)
 
+## What is a script?
+At their core, scripts are just plain text files. 
+
 ## Shell Scripting
 
 Shell scripting is writing a series of command for the shell to execute. It can combine lengthy and repetitive sequences of commands into a single and simple script, which can be stored and executed anytime. This reduces the effort required by the end user.
@@ -31,4 +34,4 @@ Let us understand the steps in creating a Shell Script
 "#!" is an operator called shebang which directs the script to the interpreter location. So, if we use"#! /bin/sh" the script gets directed to the bourne-shell.
 
 ## References
-https://www.guru99.com/introduction-to-shell-scripting.html#1
+[Introduction to shell-scripting](https://www.guru99.com/introduction-to-shell-scripting.html#1)

@@ -25,6 +25,10 @@ Chrome
 1. Log into my account
 2. Download and install all extensions with G sync
     - Remove “Disable Lastpass”
+3. Youtube
+    - Dark mode
+
+Chrome Canary
 
 ## Tools
 Homebrew - accept installation of Xcode command line tools
@@ -38,7 +42,11 @@ cask - Homebrew Cask extends Homebrew and brings its elegance, simplicity, and s
 ## Sites
 GitHub
 - Secret saved in -> /Users/mac1/.ssh/id_rsa.pub.
-
+Netlify - log in with github
+Social Media
+Slack
+- FCC
+- CodeYourFuture
 
 ## Wants
 - **Machine Metadata printout** - Print system hardware and underlying OS, runtime information tool
