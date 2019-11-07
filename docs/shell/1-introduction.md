@@ -1,5 +1,7 @@
 # Introduction
 
+> Note that the `bash` and `zsh` shell are both separate in shell script syntax
+
 ## Command Prompt
 
 The Shell issues a command prompt (usually $), where you can type your input, which is then executed when you hit the Enter key. The output or the result is thereafter displayed on the terminal.
