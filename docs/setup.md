@@ -30,6 +30,8 @@ Chrome
 
 Chrome Canary
 
+evernote
+
 ## Tools
 Homebrew - accept installation of Xcode command line tools
 - Xcode command line tools include git
@@ -38,6 +40,7 @@ git
 
 cask - Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to the installation and management of GUI macOS applications such as Atom and Google Chrome.
 
+brotherprinter drivers
 
 ## Sites
 GitHub

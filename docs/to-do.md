@@ -13,6 +13,9 @@ VScode
       - editorconfig
     - web > react (have snippets available for react projects?)
       - code snippets
+- oh-my-zsh
+  - Set configuration file
+    - default language
   
 - Extensions
   - christian-kohler.npm-intellisense
