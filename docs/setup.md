@@ -50,6 +50,9 @@ Social Media
 Slack
 - FCC
 - CodeYourFuture
+- Google keep
+Brave Browser
+- DuckduckGo
 
 ## Wants
 - **Machine Metadata printout** - Print system hardware and underlying OS, runtime information tool
