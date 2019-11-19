@@ -1,4 +1,5 @@
 # Useful Commands
+Commands can be found within many different shells - usually with the same or similar worded syntax
 
 ## Manual
 `man <any-command>`
