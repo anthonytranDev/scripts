@@ -30,7 +30,8 @@ Chrome
 
 Chrome Canary
 
-evernote
+Evernote
+Steam
 
 ## Tools
 Homebrew - accept installation of Xcode command line tools

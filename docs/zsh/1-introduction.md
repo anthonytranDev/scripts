@@ -42,8 +42,6 @@ Let us understand the steps in creating a Shell Script
 Zsh is a UNIX command interpreter (shell) usable as an interactive login shell and as a shell
 script command processor. 
 
-## Setting up the shell
-
 ### Installing zsh shell
 `brew install zsh`
 
@@ -78,7 +76,28 @@ by type (such as directories) or attribute (such as size).
 The most convenient way of adding enhancements to the shell is typically by writing a shell
 function and arranging for it to be autoloaded.
 
+## Change the use of either bash or zsh in terminal
+
+Simple use `sh` for bash and `zsh` for zsh
+
+## Changing the default shell to zsh
+
+```chsh -s /bin/zsh```
+
+## Differences between zsh and bash
+- Has different prompts
+- Difference configuration
+- Offers better configuration for auto-completion
+- Arrays and associative arrays (dictionaries)
+
+## Miscellaneous
+### When using scripts
+There is one exception where I would now recommend to use /bin/sh for your scripts.
+The Recovery system does not contain the /bin/zsh shell.
+
 ## References
 [Introduction to shell-scripting](https://www.guru99.com/introduction-to-shell-scripting.html#1)
 
 [How to Configure your macOs Terminal with zsh like a pro](https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/)
+
+[Moving to zsh](https://scriptingosx.com/2019/06/moving-to-zsh/)
