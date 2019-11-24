@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# Prints out cwd
+echo $0
+
+# Prints paramater passed to prompt
+echo $1
+echo $2

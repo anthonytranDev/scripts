@@ -1,0 +1,13 @@
+#!/bin/sh
+
+declare -A userinfo
+
+userinfo=( [name]=armin [shell]=zsh [website]="scriptingosx.com" )
+
+userinfo+=( [shell]=fish [website]=fishshell.com )
+
+if [[ -z $userinfo[website] ]]; then 
+    echo no value;
+fi
+
+echo $userinfo[website]

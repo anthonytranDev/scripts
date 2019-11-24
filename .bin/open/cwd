@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Opens the current working directory
+open .

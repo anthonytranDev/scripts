@@ -1,4 +1,4 @@
-# Path
+# Command Execution
 
 ## References
 Add Execution path - http://osxdaily.com/2014/08/14/add-new-path-to-path-command-line/

@@ -1,0 +1,20 @@
+#!/bin/sh
+
+declare -A userinfo
+
+userinfo=( [name]=armin [shell]=zsh [website]="scriptingosx.com" )
+
+echo $userinfo
+
+# retrieve keys
+echo ${(k)userinfo}
+
+# retrieve keys & values
+echo ${(kv)userinfo}
+
+# copying one associative array to another
+
+declare -A otherinfo
+otherinfo=( ${(kv)userinfo} )
+
+echo $otherinfo
