@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # Pretty prints all the execution paths
 
 echo $PATH | tr -s ':' '\n'

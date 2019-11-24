@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Opening multiple directories
+open ~/Documents ~/workspace

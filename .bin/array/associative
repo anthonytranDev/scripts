@@ -1,0 +1,7 @@
+#!/bin/sh
+
+declare -A userinfo
+
+userinfo=( [name]=armin [shell]=zsh [website]="scriptingosx.com" )
+
+echo $userinfo[name]

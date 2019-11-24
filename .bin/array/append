@@ -1,0 +1,9 @@
+#!/bin/sh
+
+declare -A userinfo
+
+userinfo=( [name]=armin [shell]=zsh [website]="scriptingosx.com" )
+
+userinfo+=( [shell]=fish [website]=fishshell.com )
+
+echo $userinfo[website]

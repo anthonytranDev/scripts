@@ -1,0 +1,11 @@
+#!/bin/sh
+
+# Open file in text editor
+
+# -e opens file in a default text editor
+# $1 is the argument pasted in first
+open -e $1
+
+# -t opens file in TextEdit
+# By default on Mac OS X both -e & -t are same
+open -t $1

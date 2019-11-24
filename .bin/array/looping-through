@@ -1,0 +1,9 @@
+#!/bin/sh
+
+declare -A userinfo
+
+userinfo=( [name]=armin [shell]=zsh [website]="scriptingosx.com" )
+
+for key value in ${(kv)userinfo}; do
+    echo "$key -> $value"
+done
